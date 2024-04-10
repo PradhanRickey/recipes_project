@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(59, 59, 59);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.links :hover {
+    color: black;
+    transition: 0.2s;
+}
